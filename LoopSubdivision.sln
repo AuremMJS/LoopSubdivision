@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28307.902
+VisualStudioVersion = 15.0.28307.1267
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LoopSubdivision", "LoopSubdivision\LoopSubdivision.vcxproj", "{FDFF7FFB-66B2-45C2-B0EA-5ABF55E790F3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LoopSubdivision", "LoopSubdivision.vcxproj", "{FDFF7FFB-66B2-45C2-B0EA-5ABF55E790F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D3E46F6B-8074-4F61-87B0-9C6FFAA378EF}
+		SolutionGuid = {7E3648E5-ACAE-4A52-96B9-050A87808485}
 	EndGlobalSection
 EndGlobal

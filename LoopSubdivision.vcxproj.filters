@@ -15,27 +15,27 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Cartesian3.h">
+    <ClInclude Include="Include/Cartesian3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="diredge.h">
+    <ClInclude Include="Include/diredge.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="io.h">
+    <ClInclude Include="Include/io.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="LoopSubdivision.cpp">
+    <ClCompile Include="Src/Cartesian3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Cartesian3.cpp">
+    <ClCompile Include="Src/diredge.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="diredge.cpp">
+    <ClCompile Include="Src/io.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="io.cpp">
+    <ClCompile Include="Src/LoopSubdivision.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
